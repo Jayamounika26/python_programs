@@ -52,9 +52,9 @@ Explanation: There is no way to make a positive profit, so we never buy the stoc
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.3 MB  
-**Submitted:** 2026-08-06T16:00:53.421Z  
+**Runtime:** 3 ms (beats 61.12%)  
+**Memory:** 20.3 MB (beats 85.66%)  
+**Submitted:** 2026-08-06T16:00:58.249Z  
 
 ```py
 class Solution:
