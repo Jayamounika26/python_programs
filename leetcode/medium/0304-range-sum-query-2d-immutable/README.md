@@ -49,9 +49,9 @@ numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 ## Solution
 
 **Language:** Python  
-**Runtime:** 108 ms (beats 74.57%)  
-**Memory:** 33.4 MB (beats 78.83%)  
-**Submitted:** 2026-08-06T04:14:43.609Z  
+**Runtime:** 130 ms (beats 39.30%)  
+**Memory:** 33.3 MB (beats 85.10%)  
+**Submitted:** 2026-08-06T15:59:27.123Z  
 
 ```py
 class NumMatrix:
