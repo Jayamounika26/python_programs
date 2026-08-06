@@ -45,9 +45,9 @@ myHashSet.contains(2); // return False, (already removed)
 ## Solution
 
 **Language:** Python  
-**Runtime:** 39 ms (beats 59.47%)  
-**Memory:** 46.1 MB (beats 11.38%)  
-**Submitted:** 2026-08-05T15:44:37.843Z  
+**Runtime:** 36 ms (beats 62.81%)  
+**Memory:** 45.9 MB (beats 20.04%)  
+**Submitted:** 2026-08-06T04:01:33.519Z  
 
 ```py
 class MyHashSet:
